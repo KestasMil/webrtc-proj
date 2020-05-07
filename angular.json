@@ -28,9 +28,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/semantic/semantic.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/semantic/semantic.js"
+            ]
           },
           "configurations": {
             "production": {
